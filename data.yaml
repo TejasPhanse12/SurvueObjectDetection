@@ -1,0 +1,9 @@
+train: dataset_og/train
+val: dataset_og/val
+
+nc: 4
+names:
+  0: dummy (unused)
+  1: human
+  2: trafficsign
+  3: vehicle

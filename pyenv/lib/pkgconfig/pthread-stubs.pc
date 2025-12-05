@@ -1,0 +1,8 @@
+prefix=/courses/CS5330.202610/students/phanse.t/FinalProject/pyenv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+
+Name: pthread stubs
+Description: Stubs missing from libc for standard pthread functions
+Version: 0.3
+Libs: 

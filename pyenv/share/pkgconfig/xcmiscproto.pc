@@ -1,0 +1,7 @@
+prefix=/courses/CS5330.202610/students/phanse.t/FinalProject/pyenv
+includedir=${prefix}/include
+ 
+Name: XCMiscProto
+Description: XCMisc extension headers
+Version: 1.2.2
+Cflags: -I${includedir}

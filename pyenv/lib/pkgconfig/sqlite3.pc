@@ -1,0 +1,13 @@
+# Package Information for pkg-config
+
+prefix=/courses/CS5330.202610/students/phanse.t/FinalProject/pyenv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: SQLite
+Description: SQL database engine
+Version: 3.51.0
+Libs: -L${libdir} -lsqlite3
+Libs.private: -lm -lz -ldl -lpthread 
+Cflags: -I${includedir}
