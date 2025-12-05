@@ -73,3 +73,5 @@ Removing traffic-sign annotations (“No-TS” datasets) consistently boosts pre
 | **YOLOv8n (Quantized)** | 1280       | 3.72 MB         | 96.3% | 85.1%    | N/A           | 86.1 ms       | 96.1%     | 91.5%  |
 | **YOLOv8n (No-TS)**     | 1280       | 6.03 MB         | 97.7% | 87.5%    | 4.8 ms        | 71.3 ms       | 96.6%     | 93.3%  |
 | **Faster RCNN**         | 960        | 41.8 MB         | 77.6% | 69.0%    | -      | -       | 85.3 %        | 79.0 %     |
+
+

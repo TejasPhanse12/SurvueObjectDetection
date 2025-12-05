@@ -1,7 +1,0 @@
-prefix=/courses/CS5330.202610/students/phanse.t/FinalProject/pyenv
-includedir=${prefix}/include
- 
-Name: ScrnSaverProto
-Description: ScrnSaver extension headers
-Version: 1.2.3
-Cflags: -I${includedir}

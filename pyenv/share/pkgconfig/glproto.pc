@@ -1,7 +1,0 @@
-prefix=/courses/CS5330.202610/students/phanse.t/FinalProject/pyenv
-includedir=${prefix}/include
- 
-Name: GLProto
-Description: GL extension headers
-Version: 1.4.17
-Cflags: -I${includedir}

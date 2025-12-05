@@ -1,7 +1,0 @@
-prefix=/courses/CS5330.202610/students/phanse.t/FinalProject/pyenv
-includedir=${prefix}/include
-
-Name: RenderProto
-Description: Render extension headers
-Version: 0.11.1
-Cflags: -I${includedir}
